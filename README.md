@@ -34,15 +34,15 @@
 ##### Details about how this works:
   There are 6 files:
   
-    * cut.py: it takes in input a string, and returns a list
+   * cut.py: it takes in input a string, and returns a list
     
-    * eqsolve.py: takes in input a string (passes by cut.py), and returns a tuple
+   * eqsolve.py: takes in input a string (passes by cut.py), and returns a tuple
     
-    * fraction.py: creates a class for fraction type, and all operations associated
+   * fraction.py: creates a class for fraction type, and all operations associated
     
-    * functions.py & libs.py: both defines functions that are pretty useful (not every functions are used here) (for a future version, we'll merge those files together)
+   * functions.py & libs.py: both defines functions that are pretty useful (not every functions are used here) (for a future version, we'll merge those files together)
     
-    * newsigntable.py: uses all those files, it takes in input a string, and returns a list of strings, printed in command line, and that is the sign table!
+   * newsigntable.py: uses all those files, it takes in input a string, and returns a list of strings, printed in command line, and that is the sign table!
     
     
     
