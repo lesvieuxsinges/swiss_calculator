@@ -46,7 +46,7 @@
     
     
     
-  Here is the schema resuming all of that: 
+ #### Here is the schema resuming all of that: 
   
   ![alt text](https://github.com/lesvieuxsinges/uvrslcalculator/blob/master/schema_signtablefunctionment.png)
   
