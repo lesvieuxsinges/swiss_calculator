@@ -45,6 +45,6 @@ Details about how this works:
     
   Here is the schema resuming all of that (yeah it is done with Paint :D):
   
-    ![alt text](https://github.com/lesvieuxsinges/uvrslcalculator/blob/master/schema_signtablefunctionment.png)
+  ![alt text](https://github.com/lesvieuxsinges/uvrslcalculator/blob/master/schema_signtablefunctionment.png)
   
   This was created by Gaetan and Louis, contactable at Gaëtan#3104 and Raincod#5016
