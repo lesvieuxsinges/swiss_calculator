@@ -1,27 +1,27 @@
-# swiss_calculator
+# Sign Table
 
-This tool consists in an program used to solve sign table for any function in its factorial form
+###### This tool consists in an program used to solve sign table for any function in its factorial form
 
-Use:
+## Use:
   Start the newsigntable.py file and enjoy!
 
-  Input:
+####  Input:
   
     (first degree factor)(other first degree facotr)etc...
     
-  Output:
+####  Output:
   
     x           -∞             factor      factor             +∞           
     factor                  -     0     +     |     +   
     factor                  -     |     -     0     +   
     product                 +     0     -     0     +   
 
-Example:
-  Input:
+## Example:
+####  Input:
 
     (-x+4)(2x+4x-2+4)(-3x+6)
 
-  Output:
+####  Output:
 
     x               -∞                 -1/3         6/3          4                   +∞              
     2x+4x-2+4                      -     0     +     |     +     |     +   
@@ -30,7 +30,7 @@ Example:
     (-x+4)(2x+4x-2+4)(-3x+6)       -     0     +     0     -     0     +   
 
 
-Details about how this works:
+###### Details about how this works:
   There are 6 files:
   
     cut.py: it takes in input a string, and returns a list
@@ -43,7 +43,7 @@ Details about how this works:
     
     newsigntable.py: uses all those files, it takes in input a string, and returns a list of strings, printed in command line, and that is the sign table!
     
-  Here is the schema resuming all of that (yeah it is done with Paint :D):
+  Here is the schema resuming all of that: 
   
   ![alt text](https://github.com/lesvieuxsinges/uvrslcalculator/blob/master/schema_signtablefunctionment.png)
   
