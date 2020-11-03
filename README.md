@@ -45,4 +45,6 @@ Details about how this works:
     
   Schema in working...
   
+  ![alt text](https://github.com/lesvieuxsignes/uvrslcalculator/blob/master/schema_signtablefunctionment.png?raw=true)
+  
   This was created by Gaetan and Louis, contactable at Gaëtan#3104 and Raincod#5016
