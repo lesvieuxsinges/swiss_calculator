@@ -114,6 +114,7 @@ def sign_table(equation):
             else:
                 print("{:^5s}".format(each), end=' ')
     print('\n')
+    input()
 
 if __name__ == "__main__":
-	sign_table(input("put here sign table"))
+	sign_table(input("Put here sign table > "))

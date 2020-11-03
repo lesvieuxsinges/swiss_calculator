@@ -119,4 +119,4 @@ class Fraction:
 
 
 if __name__ == "__main__":
-	print(Fraction(int(input()), int(input())))
+	print(Fraction(int(input("here top")), int(input("here bottom"))))
