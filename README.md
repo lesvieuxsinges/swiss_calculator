@@ -3,7 +3,7 @@
 ###### This tool consists in an program used to solve sign table for any function in its factorial form
 
 ## Use:
-  Start the newsigntable.py file and enjoy!
+  ***Start the newsigntable.py file and enjoy!***
 
 ####  Input:
   
