@@ -43,8 +43,8 @@ Details about how this works:
     
     newsigntable.py: uses all those files, it takes in input a string, and returns a list of strings, printed in command line, and that is the sign table!
     
-  Schema in working...
+  Here is the schema resuming all of that (yeah it is done with Paint :D):
   
-  ![alt text](https://github.com/lesvieuxsinges/uvrslcalculator/blob/master/schema_signtablefunctionment.png)
+    ![alt text](https://github.com/lesvieuxsinges/uvrslcalculator/blob/master/schema_signtablefunctionment.png)
   
   This was created by Gaetan and Louis, contactable at Gaëtan#3104 and Raincod#5016
