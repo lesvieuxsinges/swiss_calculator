@@ -44,3 +44,5 @@ Details about how this works:
     newsigntable.py: uses all those files, it takes in input a string, and returns a list of strings, printed in command line, and that is the sign table!
     
   Schema in working...
+  
+  This was created by Gaetan and Louis, contactable at Gaëtan#3104 and Raincod#5016
