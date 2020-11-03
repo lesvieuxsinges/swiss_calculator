@@ -30,7 +30,8 @@
     (-x+4)(2x+4x-2+4)(-3x+6)       -     0     +     0     -     0     +   
 
 
-###### Details about how this works:
+
+##### Details about how this works:
   There are 6 files:
   
     cut.py: it takes in input a string, and returns a list
